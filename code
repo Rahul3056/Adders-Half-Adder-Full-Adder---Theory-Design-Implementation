@@ -1,6 +1,4 @@
 
-### Example Verilog Code for Half Adder and Full Adder
-```verilog
 // Half Adder Module
 module half_adder (
     input wire A, B,
